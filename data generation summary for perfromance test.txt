@@ -1,0 +1,6 @@
+DATA GENERATED WHILE PERFORMING THE PERFORMANCE TEST IS BASICALLY THE RECORD OF ADDING 100 CUSTOMERS
+50 in furniture info list
+50 in cosmetics info list
+then i execute function of display for both categories
+after that i worked on update functions for 50 customer's data record
+And then i deleted them one by one by searching and delete function..........
