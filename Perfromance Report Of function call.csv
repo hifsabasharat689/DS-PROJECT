@@ -1,0 +1,20 @@
+Function Name,Inclusive Samples,Exclusive Samples,Inclusive Samples %,Exclusive Samples %
+[msvcp120.dll],87,86,71.9,71.07
+[msvcr120.dll],35,35,28.93,28.93
+__tmainCRTStartup,121,0,100,0
+DeleteCosmeticsOrder,1,0,0.83,0
+DisplayCosmeticsOrder,1,0,0.83,0
+DisplayfromFileCosmetics,1,0,0.83,0
+InsertCosmeticsOrder,1,0,0.83,0
+InsertToFileCosmetics,3,0,2.48,0
+loginverification,9,0,7.44,0
+main,68,0,56.2,0
+Panel,39,0,32.23,0
+"std::basic_filebuf<char,std::char_traits<char> >::open",4,0,3.31,0
+"std::basic_ifstream<char,std::char_traits<char> >::basic_ifstream<char,std::char_traits<char> >",1,0,0.83,0
+"std::basic_ofstream<char,std::char_traits<char> >::close",1,0,0.83,0
+"std::endl<char,std::char_traits<char> >",5,0,4.13,0
+"std::operator<<<char,std::char_traits<char>,std::allocator<char> >",21,0,17.36,0
+std::operator<<<std::char_traits<char> >,1,0,0.83,0
+std::operator<<<std::char_traits<char> >,55,0,45.45,0
+welcomenote,12,0,9.92,0
